@@ -1,7 +1,5 @@
 # Tugas UTS Machine Learning
 
-## Identitas
-
 - **Nama:** Muhammad Al Furqon
 - **NIM:** 241011400095
 - **Kelas:** 05TPLM001
